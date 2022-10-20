@@ -1,0 +1,20 @@
+input{
+    width: 50%;
+}
+.section-1{
+    border-radius: 10px;
+    background-color: aquamarine;
+    height: 480px;
+}
+.section-2{
+    border-radius: 10px;
+    background-color: aqua;
+    height: 480px;
+}
+.header{
+    background-color: rgb(159, 159, 247);
+    height: 100px;
+}
+.header h1{
+    padding-top: 18px;
+}

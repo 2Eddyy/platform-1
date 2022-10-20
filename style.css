@@ -1,0 +1,35 @@
+#btn{
+    font-size: 20px;
+    border-radius: 5px;
+}
+#btns{
+    font-size: 20px;
+    border-radius: 5px;
+}
+label{
+    font-size: 20px;
+}
+.section-1{
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    border-radius: 5px;
+}
+.section-2{
+    background: linear-gradient(-45deg, #014c69, #fa96bc, #bce6f5, #aaf5e3);
+    border-radius: 5px; 
+    color: #260269;
+}
+button{
+    background-color:paleturquoise;
+}
+img{
+    height: 100px;
+    width: 150px;
+    border-radius: 5px;
+}
+span{
+    font-size: 25px;
+    text-decoration: underline;
+}
+input{
+    font-size: 25px;
+}
